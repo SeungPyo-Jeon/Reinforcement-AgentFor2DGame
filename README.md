@@ -9,12 +9,9 @@ Agent는 게임화면의 시퀀셜 이미지를 받습니다.
 Unity AgentML 라이브러리를 사용해 모델학습을 진행하였습니다.
 
 ### **"세상에서가장어려운게임"예시**
-![Image](https://github.com/user-attachments/assets/fee04165-6b26-46f4-ac3f-d42c0ed54ecf)
-![Image](https://github.com/user-attachments/assets/992cbc68-1e0f-4042-b829-12a1689029ec)
-
+![Image](https://github.com/user-attachments/assets/67122976-9048-49d8-8202-8f66daa4950a)
+![Image](https://github.com/user-attachments/assets/7f529c34-27ac-426d-affc-e202c3569428)
+![Image](https://github.com/user-attachments/assets/fdf3261b-012f-4b3a-9cf6-8fbf35bdcfb8)
 ### **학습 모델 시연**
-![Image](https://github.com/user-attachments/assets/a4f72836-8241-4c36-8f6d-43e8fe623c7d)
-
-![Image](https://github.com/user-attachments/assets/8f60205c-439c-4397-8d90-b0fc3dd2ad56)
-
-![Image](https://github.com/user-attachments/assets/cc0f1d58-d367-4392-a32f-755a5555316a)
+![Image](https://github.com/user-attachments/assets/ccbbaa47-09b6-4420-b8b8-2300bd0d8e28)
+![Image](https://github.com/user-attachments/assets/b9c624aa-a2ed-4605-8fb3-61e1370b258b)

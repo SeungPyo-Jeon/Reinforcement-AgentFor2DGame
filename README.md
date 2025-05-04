@@ -1,7 +1,8 @@
 # Reinforcement-AgentFor2DGame
 
-3학년 2학기 "강화학습" 강좌 레포지토리입니다.
-A repository for "강화학습" for the second semester of the third year.
+3학년 2학기 "강화학습" 강좌 레포지토리입니다.  
+A repository for "강화학습" for the second semester of the third year.  
+해당 파일은 Unity 프로젝트 파일입니다.
 
 ## Agent
 "세상에서 가장 어려운 게임"을 플레이하는 Agent를 목표로 하였습니다. 

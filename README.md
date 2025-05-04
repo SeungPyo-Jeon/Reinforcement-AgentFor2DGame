@@ -8,13 +8,13 @@ A repository for "강화학습" for the second semester of the third year.
 Agent는 게임화면의 시퀀셜 이미지를 받습니다.
 Unity AgentML 라이브러리를 사용해 모델학습을 진행하였습니다.
 
-###**"세상에서가장어려운게임"예시**
-![Image](https://github.com/user-attachments/assets/8037a99e-e491-405c-bd2a-8926c51bc08b)
+### **"세상에서가장어려운게임"예시**
+![Image](https://github.com/user-attachments/assets/fee04165-6b26-46f4-ac3f-d42c0ed54ecf)
+![Image](https://github.com/user-attachments/assets/992cbc68-1e0f-4042-b829-12a1689029ec)
 
-![Image](https://github.com/user-attachments/assets/8c9b5c9d-811f-488f-b628-8e37186b83d7)
+### **학습 모델 시연**
+![Image](https://github.com/user-attachments/assets/a4f72836-8241-4c36-8f6d-43e8fe623c7d)
 
-![Image](https://github.com/user-attachments/assets/d32f4fcf-8445-438a-a61d-570f12bf8d89)
+![Image](https://github.com/user-attachments/assets/8f60205c-439c-4397-8d90-b0fc3dd2ad56)
 
-![Image](https://github.com/user-attachments/assets/6337899b-7339-48f7-b18f-12b7db5adcac)
-
-![Image](https://github.com/user-attachments/assets/d5335e54-7b62-4ff4-aff3-0b6b0436a3eb)
+![Image](https://github.com/user-attachments/assets/cc0f1d58-d367-4392-a32f-755a5555316a)
